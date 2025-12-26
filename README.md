@@ -16,7 +16,7 @@ output/ – Sample outputs
 
 ## ▶ How to Run
 ```bash
-#Download the script from the scripts:
+#Download the script from the scripts folder:
 #Give execute permission and run
 chmod +x scripts/system_monitor.sh
 ./scripts/system_monitor.sh
