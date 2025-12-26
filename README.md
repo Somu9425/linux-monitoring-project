@@ -1,16 +1,16 @@
 # Linux Server Monitoring Automation
 
-## 📌 Project Overview
+##  Project Overview
 This project automates basic Linux server health monitoring using a shell script.
 It collects CPU usage, memory usage, disk utilization, and system uptime.
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Linux
 - Bash Scripting
 - Git
 - GitHub
 
-## 📂 Project Structure
+##  Project Structure
 scripts/ – Monitoring scripts  
 output/ – Sample outputs  
 
