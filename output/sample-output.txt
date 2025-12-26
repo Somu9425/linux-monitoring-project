@@ -1,0 +1,43 @@
+===== SYSTEM HEALTH REPORT =====
+Hostname: Sundar-Cloudside
+Date: Fri Dec 26 18:27:10 IST 2025
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       500Mi       6.4Gi       3.0Mi       789Mi       7.0Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  184G  291G  39% /usr/lib/wsl/drivers
+/dev/sdd       1007G  5.0G  951G   1% /
+none            3.9G   76K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  916K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  184G  291G  39% /mnt/c
+snapfuse        128K  128K     0 100% /snap/bare/5
+snapfuse         74M   74M     0 100% /snap/core22/2163
+snapfuse         64M   64M     0 100% /snap/core20/2682
+snapfuse         64M   64M     0 100% /snap/core20/2686
+snapfuse         74M   74M     0 100% /snap/core22/2193
+snapfuse         92M   92M     0 100% /snap/gtk-common-themes/1535
+snapfuse         14M   14M     0 100% /snap/kubectl/3689
+snapfuse         14M   14M     0 100% /snap/kubectl/3715
+snapfuse         51M   51M     0 100% /snap/snapd/25202
+snapfuse         51M   51M     0 100% /snap/snapd/25577
+snapfuse        132M  132M     0 100% /snap/ubuntu-desktop-installer/1276
+snapfuse        132M  132M     0 100% /snap/ubuntu-desktop-installer/1286
+tmpfs           781M  8.0K  781M   1% /run/user/1000
+
+System Uptime:
+ 18:27:11 up 4 min,  1 user,  load average: 0.02, 0.10, 0.05
