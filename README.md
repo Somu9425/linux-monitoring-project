@@ -18,3 +18,10 @@ output/ – Sample outputs
 ```bash
 chmod +x scripts/system_monitor.sh
 ./scripts/system_monitor.sh
+
+Add cron job:
+    crontab -e
+
+The output is delivered to the respective location at 10-minute intervals.
+
+ Run : */10 * * * * /path/scripts/system_monitor.sh >> /var/log/system_monitor.log
